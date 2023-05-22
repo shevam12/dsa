@@ -1,0 +1,9 @@
+shallow copy and deep copy
+in single dimenssion array there is deep copy
+in multidimension array there is shallow copy
+
+shallow copy only reference is clone
+deep copy data is clone
+
+clone is of object class
+and can be achieved by the clone method;
